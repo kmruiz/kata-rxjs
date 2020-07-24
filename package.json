@@ -1,0 +1,22 @@
+{
+  "name": "kata-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:ex1": "jest ex1",
+    "test:ex2": "jest ex2",
+    "test:ex3": "jest ex3",
+    "test:ex4": "jest ex4",
+    "test:ex5": "jest ex5"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.0.0-beta.2"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
