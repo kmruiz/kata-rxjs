@@ -1,5 +1,5 @@
 const { of } = require('rxjs')
-const { filter, map, flatMap, distinct } = require('rxjs/operators')
+const { filter, map } = require('rxjs/operators')
 
 module.exports = (words) => {
     return of(...words)

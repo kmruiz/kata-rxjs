@@ -1,0 +1,6 @@
+marble ex3
+{
+    source a: +--0-1-2-0-3|
+    operator filter(notZeroes): +----1-2---3|
+    operator map(multByTwo):    +----2-4---6|
+}

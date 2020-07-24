@@ -1,4 +1,3 @@
-const result = require('./index');
 const exercise = require('./');
 const { toArray } = require('rxjs/operators');
 

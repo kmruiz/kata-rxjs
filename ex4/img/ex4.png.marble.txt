@@ -1,0 +1,6 @@
+marble ex4
+{
+    source a: +--0-1-2-3|
+    operator map(itselfAndPlusOne): +--{0,1}-{1,2}-{2,3}-{3,4}|
+    operator flat(): +--01-12-23-34|
+}

@@ -1,0 +1,6 @@
+marble ex5
+{
+    source a: +--0-1-2-3|
+    source b: +--a-b-c-d|
+    operator zip(a,b): +--{0,a}-{1,b}-{2,c}-{3,d}|
+}
