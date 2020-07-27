@@ -37,3 +37,9 @@ There are two git branches:
 * `solutions` contains the exercises with the solutions.
 
 The suggestion is to solve the exercises in order.
+
+To run the tests for a single exercise, there is a command in the package-lock.json. For example, if you want to run the tests for the exercise 3, you need to run the following bash command:
+
+```sh
+$> npm run test:ex3
+```
