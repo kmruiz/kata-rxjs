@@ -1,5 +1,6 @@
 const { range } = require('rxjs')
+// range(from, count)
 
 module.exports = () => {
-    return range(0, 10)    
+    return //...
 }
